@@ -1,0 +1,13 @@
+D:\BP201\Casting\Casting\bin\Debug\netcoreapp3.1\Casting.exe
+D:\BP201\Casting\Casting\bin\Debug\netcoreapp3.1\Casting.deps.json
+D:\BP201\Casting\Casting\bin\Debug\netcoreapp3.1\Casting.runtimeconfig.json
+D:\BP201\Casting\Casting\bin\Debug\netcoreapp3.1\Casting.runtimeconfig.dev.json
+D:\BP201\Casting\Casting\bin\Debug\netcoreapp3.1\Casting.dll
+D:\BP201\Casting\Casting\bin\Debug\netcoreapp3.1\Casting.pdb
+D:\BP201\Casting\Casting\obj\Debug\netcoreapp3.1\Casting.csprojAssemblyReference.cache
+D:\BP201\Casting\Casting\obj\Debug\netcoreapp3.1\Casting.AssemblyInfoInputs.cache
+D:\BP201\Casting\Casting\obj\Debug\netcoreapp3.1\Casting.AssemblyInfo.cs
+D:\BP201\Casting\Casting\obj\Debug\netcoreapp3.1\Casting.csproj.CoreCompileInputs.cache
+D:\BP201\Casting\Casting\obj\Debug\netcoreapp3.1\Casting.dll
+D:\BP201\Casting\Casting\obj\Debug\netcoreapp3.1\Casting.pdb
+D:\BP201\Casting\Casting\obj\Debug\netcoreapp3.1\Casting.genruntimeconfig.cache
